@@ -1,2 +1,2 @@
 # BAIS-Capstone-Final
-This project was for my capstone class for the business analytics major.
+This project was for my capstone class for the business analytics major. I worked in a group of me and three other students for this semester long project. We worked with a company called College Raptor. They help high school students find the right college fit for them based off of many different features, both about the student and different universities. They also help admissions offices be able to recruit more efficiently and effectively. 
